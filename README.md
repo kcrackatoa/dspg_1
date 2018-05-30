@@ -5,3 +5,7 @@
 - `git status`
 
 - *italic* vs **bold**
+
+- `git add` to staging area
+
+- `git commit`
