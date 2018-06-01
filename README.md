@@ -11,3 +11,5 @@
 - `git commit`
 
 - TEST
+- use 'git branch MY_BRANCH_NAME to create a new branch'
+- use 'git checkout MY_BRANCH_NAME' to go to that branch
